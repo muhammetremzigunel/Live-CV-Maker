@@ -1,0 +1,16 @@
+{
+    "sectionTitle": "Work Experience",
+    "cardTitle": "Experience",
+    "companyLabel": "Company Name *",
+    "companyPlaceholder": "e.g., ABC Technology Inc.",
+    "positionLabel": "Position *",
+    "positionPlaceholder": "e.g., Senior Software Engineer",
+    "startDateLabel": "Start Date *",
+    "endDateLabel": "End Date",
+    "currentCheckbox": "I currently work here",
+    "responsibilitiesLabel": "Responsibilities and Achievements *",
+    "responsibilityPlaceholder": "e.g., Developed web applications using React and TypeScript...",
+    "addResponsibilityButton": "+ Add Responsibility",
+    "addExperienceButton": "+ Add New Experience",
+    "removeButton": "Remove"
+}

@@ -1,0 +1,100 @@
+{
+    "personalInfo": {
+        "fullName": "YOUR FULL NAME",
+        "professionalTitle": "YOUR PROFESSIONAL TITLE",
+        "location": "City, Country",
+        "email": "your.email@example.com",
+        "phone": "+00 123 456 78 90",
+        "linkedIn": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+    },
+    "summary": {
+        "text": "Write a brief and compelling summary of your professional background, key achievements, and career goals. This section should highlight your unique value proposition and what you bring to the table. Use keywords relevant to your target role to improve ATS parsing."
+    },
+    "experience": [
+        {
+            "id": "mock-exp-1",
+            "company": "Company Name / Organization",
+            "position": "Job Title / Role",
+            "startDate": "2020-01-01",
+            "endDate": "",
+            "current": true,
+            "responsibilities": [
+                "Describe your key responsibilities and achievements in this role using action verbs.",
+                "Quantify your impact whenever possible (e.g., 'Increased sales by 20%' or 'Managed a budget of $50k').",
+                "Highlight specific projects or technologies you used and the results you achieved.",
+                "Ensure each bullet point is clear, concise, and focused on value."
+            ]
+        },
+        {
+            "id": "mock-exp-2",
+            "company": "Previous Company Name",
+            "position": "Previous Job Title",
+            "startDate": "2015-06-01",
+            "endDate": "2019-12-31",
+            "current": false,
+            "responsibilities": [
+                "Summarize your contributions and key learnings from this earlier experience.",
+                "Focus on transferable skills and accomplishments that are relevant to your current goals.",
+                "Maintain a consistent tone and style throughout your experience section."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": "mock-edu-1",
+            "school": "University or Institution Name",
+            "degree": "Degree Level (e.g., Master of Science)",
+            "fieldOfStudy": "Field of Study (e.g., Computer Science)",
+            "startDate": "2011-09-01",
+            "endDate": "2013-06-01",
+            "current": false
+        },
+        {
+            "id": "mock-edu-2",
+            "school": "College or University Name",
+            "degree": "Degree Level (e.g., Bachelor of Science)",
+            "fieldOfStudy": "Field of Study",
+            "startDate": "2007-09-01",
+            "endDate": "2011-06-01",
+            "current": false
+        }
+    ],
+    "skills": [
+        {
+            "id": "mock-skill-1",
+            "categoryName": "Skill Category (e.g., Technical Skills)",
+            "skills": [
+                "Skill 1",
+                "Skill 2",
+                "Skill 3",
+                "Skill 4",
+                "Skill 5"
+            ]
+        },
+        {
+            "id": "mock-skill-2",
+            "categoryName": "Soft Skills",
+            "skills": [
+                "Communication",
+                "Problem Solving",
+                "Teamwork",
+                "Adaptability"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "id": "mock-cert-1",
+            "name": "Certification Name",
+            "issuer": "Issuing Organization",
+            "date": "2022-05-01"
+        },
+        {
+            "id": "mock-cert-2",
+            "name": "Another Certification",
+            "issuer": "Another Organization",
+            "date": "2021-03-15"
+        }
+    ]
+}

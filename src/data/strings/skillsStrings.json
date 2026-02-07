@@ -1,0 +1,12 @@
+{
+    "sectionTitle": "Technical Skills",
+    "description": "Add your skills organized by categories (e.g., Programming Languages, Frameworks, Tools).",
+    "categoryCardTitle": "Category",
+    "categoryNameLabel": "Category Name *",
+    "categoryNamePlaceholder": "e.g., Programming Languages, Frameworks, Tools",
+    "skillsLabel": "Skills *",
+    "skillPlaceholder": "e.g., React, TypeScript, Node.js",
+    "addSkillButton": "+ Add Skill",
+    "addCategoryButton": "+ Add New Category",
+    "removeButton": "Remove"
+}

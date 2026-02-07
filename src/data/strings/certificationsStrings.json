@@ -1,0 +1,13 @@
+{
+    "sectionTitle": "Certifications and Achievements",
+    "description": "Add your professional certifications and significant achievements (optional).",
+    "emptyState": "No certifications added yet.",
+    "cardTitle": "Certification",
+    "nameLabel": "Certification Name *",
+    "namePlaceholder": "e.g., AWS Certified Solutions Architect",
+    "issuerLabel": "Issuing Organization *",
+    "issuerPlaceholder": "e.g., Amazon Web Services",
+    "dateLabel": "Date *",
+    "addButton": "+ Add New Certification",
+    "removeButton": "Remove"
+}

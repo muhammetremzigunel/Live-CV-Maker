@@ -1,0 +1,15 @@
+{
+    "sectionTitle": "Education",
+    "cardTitle": "Education",
+    "schoolLabel": "School/University *",
+    "schoolPlaceholder": "e.g., Istanbul Technical University",
+    "degreeLabel": "Degree *",
+    "degreePlaceholder": "e.g., Bachelor's, Master's",
+    "fieldOfStudyLabel": "Field of Study *",
+    "fieldOfStudyPlaceholder": "e.g., Computer Engineering",
+    "startDateLabel": "Start Date *",
+    "endDateLabel": "Graduation Date",
+    "currentCheckbox": "I am currently enrolled",
+    "addEducationButton": "+ Add New Education",
+    "removeButton": "Remove"
+}

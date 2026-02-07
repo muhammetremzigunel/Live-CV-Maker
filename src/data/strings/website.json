@@ -1,0 +1,23 @@
+{
+    "appTitle": "ATS-Compliant CV Builder",
+    "appDescription": "Create CVs that are correctly parsed by ATS systems with a modular form structure",
+    "previousButton": "← Previous",
+    "nextButton": "Next →",
+    "previewPanelTitle": "CV Preview",
+    "steps": {
+        "personalInfo": "Personal Information",
+        "summary": "Professional Summary",
+        "experience": "Work Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "certifications": "Certifications"
+    },
+    "templates": {
+        "classic": {
+            "name": "Classic ATS",
+            "description": "Traditional format, uppercase headings"
+        }
+    },
+    "singleTemplateNote": "1 template available",
+    "datePresent": "Present"
+}

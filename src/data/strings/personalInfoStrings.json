@@ -1,0 +1,24 @@
+{
+    "sectionTitle": "Personal Information",
+    "fullNameLabel": "Full Name *",
+    "fullNamePlaceholder": "e.g., John Smith",
+    "professionalTitleLabel": "Professional Title *",
+    "professionalTitlePlaceholder": "e.g., Senior Software Engineer",
+    "locationLabel": "Location *",
+    "locationPlaceholder": "e.g., London, UK",
+    "emailLabel": "Email *",
+    "emailPlaceholder": "e.g., john@example.com",
+    "phoneLabel": "Phone *",
+    "phonePlaceholder": "e.g., +90 555 123 4567",
+    "linkedInLabel": "LinkedIn",
+    "linkedInPlaceholder": "e.g., linkedin.com/in/johnsmith",
+    "githubLabel": "GitHub",
+    "githubPlaceholder": "e.g., github.com/johnsmith",
+    "summary": {
+        "sectionTitle": "Professional Summary",
+        "description": "Write a 2-4 sentence paragraph summarizing your career and areas of expertise.",
+        "label": "Summary *",
+        "placeholder": "e.g., Full Stack Developer with 5+ years of experience. Expert in React, Node.js, and cloud technologies...",
+        "characterCount": "characters"
+    }
+}

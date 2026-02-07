@@ -1,0 +1,21 @@
+{
+    "sections": {
+        "professionalSummary": "PROFESSIONAL SUMMARY",
+        "professionalExperience": "PROFESSIONAL EXPERIENCE",
+        "education": "EDUCATION",
+        "technicalSkills": "TECHNICAL SKILLS",
+        "certifications": "CERTIFICATIONS",
+        "summary": "Summary",
+        "experience": "Experience",
+        "skills": "Skills"
+    },
+    "labels": {
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "linkedIn": "LinkedIn",
+        "github": "GitHub",
+        "in": "in"
+    },
+    "datePresent": "Present"
+}
